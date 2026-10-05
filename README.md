@@ -8,19 +8,23 @@ A collection of Python projects I build while learning programming and strengthe
 
 A Python project focused on splitting and managing a bill between people.
 
-### 2. Employee Profile Generator
+### 2. BMI Caculator
+
+A Python project that collects user input and generates their BMI
+
+### 3. Employee Profile Generator
 
 A Python project for creating and displaying employee profile information.
 
-### 3. Movie Ticket Booking Collector
+### 4. Movie Ticket Booking Collector
 
 A Python project that collects and manages movie ticket booking information.
 
-### 4. Student Report
+### 5. Student Report
 
 A Python project for working with student information and generating report-related output.
 
-### 5. Text to Speech Generator
+### 6. Text to Speech Generator
 
 A Python project that converts text into speech.
 
