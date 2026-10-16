@@ -1,43 +1,54 @@
 # Python Projects 🐍
 
-A collection of Python projects I build while learning programming and strengthening my problem-solving skills.
+A collection of Python projects built while learning programming fundamentals, practicing problem-solving, and developing practical coding skills.
 
 ## Projects
 
-### 1. Build Splitter
+| Project | Description |
+|---|---|
+| [Bill Splitter](bill_splitter.py) | Calculates a shared bill, tip, and amount per person. |
+| [BMI Calculator](bmi_calculator.py) | Practices user input, arithmetic, and calculating body mass index. |
+| [Employee Profile Generator](employee_profile_generator.py) | Demonstrates string manipulation, variables, and formatted output. |
+| [Movie Ticket Booking Calculator](movie_%20ticket_booking_calculator.py) | Practices calculations and basic ticket-booking logic. |
+| [Student Report](student_report.py) | Explores Python data types and basic output. |
+| [Text-to-Speech Generator](text_to_speech_generator.py) | Converts text into speech using Google's Text-to-Speech library (`gTTS`). |
 
-A Python project focused on splitting and managing a bill between people.
+## Getting Started
 
-### 2. BMI Caculator
+### Requirements
 
-A Python project that collects user input and generates their BMI
+- Python 3
+- Additional dependencies may be required for individual projects.
 
-### 3. Employee Profile Generator
+### Run a project
 
-A Python project for creating and displaying employee profile information.
+1. Clone this repository.
+2. Open the repository folder in your terminal.
+3. Run a Python file:
 
-### 4. Movie Ticket Booking Collector
+```bash
+python bill_splitter.py
+```
 
-A Python project that collects and manages movie ticket booking information.
+Replace `bill_splitter.py` with the filename of the project you want to run.
 
-### 5. Student Report
+For the text-to-speech project, install its dependency first:
 
-A Python project for working with student information and generating report-related output.
+```bash
+python -m pip install gTTS
+```
 
-### 6. Text to Speech Generator
+## Skills Practiced
 
-A Python project that converts text into speech.
-
-## What I'm Learning
-
-* Python programming
-* Problem solving
-* Programming fundamentals
-* Working with GitHub
-* Building projects through practice
+- Variables and data types
+- User input and output
+- Arithmetic and calculations
+- String manipulation and formatted strings
+- Basic problem-solving
+- Working with Python projects and GitHub
 
 ## About
 
-I'm currently pursuing a Bachelor of Computer Applications (BCA) and using projects like these to turn what I learn into practical work.
+I'm a BCA student learning Python through hands-on projects. This repository documents my progress as I strengthen my programming fundamentals and work toward backend development.
 
-This repository will continue to grow as I learn and build more Python projects.
+More projects and improvements will be added as I continue learning.
