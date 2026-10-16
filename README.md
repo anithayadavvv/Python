@@ -9,7 +9,7 @@ A collection of Python projects built while learning programming fundamentals, p
 | [Bill Splitter](bill_splitter.py) | Calculates a shared bill, tip, and amount per person. |
 | [BMI Calculator](bmi_calculator.py) | Practices user input, arithmetic, and calculating body mass index. |
 | [Employee Profile Generator](employee_profile_generator.py) | Demonstrates string manipulation, variables, and formatted output. |
-| [Movie Ticket Booking Calculator](movie_%20ticket_booking_calculator.py) | Practices calculations and basic ticket-booking logic. |
+| [Movie Ticket Booking Calculator](movie_ticket_booking_calculator.py) | Practices calculations and basic ticket-booking logic. |
 | [Student Report](student_report.py) | Explores Python data types and basic output. |
 | [Text-to-Speech Generator](text_to_speech_generator.py) | Converts text into speech using Google's Text-to-Speech library (`gTTS`). |
 
